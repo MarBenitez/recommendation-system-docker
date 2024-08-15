@@ -1,0 +1,23 @@
+# Flask for creating the web application
+Flask==2.1.0
+
+# pandas for data manipulation
+pandas
+
+# numpy for numerical operations
+numpy
+
+# scikit-learn for collaborative filtering and other ML techniques
+scikit-learn
+
+# transformers for loading the DistilBERT model
+transformers
+
+# torch as the backend for transformers
+torch>=1.11.0
+
+# Werkzeug for handling routing and WSGI in Flask
+Werkzeug==2.1.0
+
+
+gunicorn==20.1.0
