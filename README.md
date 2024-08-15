@@ -89,7 +89,7 @@ The personalized recommendation system is designed to provide users with tailore
 ├── Dockerfile # Dockerfile for building the image
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-´´´
+```
 
 ## Contributing
 
