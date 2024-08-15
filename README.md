@@ -66,7 +66,7 @@ The personalized recommendation system is designed to provide users with tailore
 3. View the recommended products and adjust your preferences.
 
 ## Project Structure
-
+```
 ├── app
 │ ├── static
 │ │ └── style.css # CSS for styling the web pages
@@ -89,7 +89,7 @@ The personalized recommendation system is designed to provide users with tailore
 ├── Dockerfile # Dockerfile for building the image
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+´´´
 
 ## Contributing
 
